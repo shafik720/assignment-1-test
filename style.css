@@ -126,3 +126,16 @@ section{
     border-radius: 10px;
     box-shadow: 10px 10px 20px gray;
 }
+
+footer{
+    text-align: center;
+    padding: 45px;
+    background: #0B0D17;
+    color: white;
+}
+footer h1 {
+    font-size: 40px;
+}
+footer p {
+    color: white;
+}
