@@ -1,0 +1,44 @@
+body{
+    font-family: 'Merriweather', serif;
+    margin: 0;
+}
+
+h1{
+    font-size: 60px;
+    color: #575757;
+}
+
+section{
+    display: flex;
+}
+
+.sec1{
+    width: 40%;
+    padding-left: 2%;
+    margin-top: 5%;
+}
+
+.sec1 p{
+    font-size: 20px;
+    color: #575757;
+}
+
+#orangedText{
+    color: orange;
+}
+
+.order{
+    background: linear-gradient(orange, yellow);
+    text-decoration: none;
+    padding: 20px 30px;
+    color: white;
+    border-radius: 30px;
+    font-size: 20px;
+    box-shadow: 2px 2px 5px 1px yellow;
+    
+}
+
+#sec1left{
+    margin-top: 20%;
+    margin-left: 10%;
+}
