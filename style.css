@@ -47,6 +47,7 @@ section{
 .sec2{
     width:40%;
     margin-left: 5%;
+    margin-right: 5%;
 }
 
 .sec2right{
@@ -70,6 +71,11 @@ section{
 }
 
 #section2{
-    background-image: url(images/bg.jpg);
-    background-repeat: no-repeat;
+    height:100%;
+    background:url('images/bg.jpg') no-repeat;
+    background-position:center center;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
 }
