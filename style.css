@@ -3,12 +3,16 @@ body{
     margin: 0;
 }
 
+p {
+    color: #676059;
+}
+
 h1{
     font-size: 60px;
     color: #575757;
 }
 
-section{
+.flexibleSection{
     display: flex;
     margin-bottom: 100px;
 }
@@ -78,4 +82,25 @@ section{
     -moz-background-size:cover;
     -o-background-size:cover;
     background-size:cover;
+}
+
+.ourFoods{
+    text-align: center;
+    
+}
+
+.sec3{
+    padding: 10px 10px;
+    width: 25%;
+    margin-left: 5%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px gray;
+}
+
+.sec3 h3{
+    font-size: 30px;
+}
+
+.sec3 img{
+    width: 100%;
 }
