@@ -10,6 +10,7 @@ h1{
 
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 
 .sec1{
@@ -44,8 +45,8 @@ section{
 }
 
 .sec2{
-    width: 40%;
-    margin-left: 10%;
+    width:40%;
+    margin-left: 5%;
 }
 
 .sec2right{
@@ -66,4 +67,9 @@ section{
     font-size: 20px;
     box-shadow: 2px 2px 5px 1px orange;
     
+}
+
+#section2{
+    background-image: url(images/bg.jpg);
+    background-repeat: no-repeat;
 }
