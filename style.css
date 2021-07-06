@@ -42,3 +42,28 @@ section{
     margin-top: 20%;
     margin-left: 10%;
 }
+
+.sec2{
+    width: 40%;
+    margin-left: 10%;
+}
+
+.sec2right{
+    width: 40%;
+    margin-top: 10%;
+}
+.sec2 p {
+    font-size: 20px;
+    margin-bottom: 20%;
+}
+
+.contact{
+    background: linear-gradient(orange, yellow);
+    text-decoration: none;
+    padding: 20px 30px;
+    color: white;
+    border-radius: 30px;
+    font-size: 20px;
+    box-shadow: 2px 2px 5px 1px orange;
+    
+}
